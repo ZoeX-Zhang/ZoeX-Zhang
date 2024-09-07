@@ -1,16 +1,12 @@
-## Hi there 👋
+- 👋 Hi, I’m ZoeX-Zhang, Student from Center Academy of Fine Arts, Shanghai, China🇨🇳
+- 👀 I’m interested in Arts' history
+- 🌱 I’m currently learning Sanxingdui culture which from the southwest part of China
+- 👩🏻‍🎓 I've taught art appreciation classes to students and worked in art museums
+- 🥰 I have published my thesis in Fine Arts and am preparing a personal art book
+- 💞️ Hope to find like-minded partners
+- 📫 How to reach [me](mailto:1363896250@qq.com) 
 
-<!--
-**ZoeX-Zhang/ZoeX-Zhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!---
+ZoeX-Zhang/ZoeX-Zhang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
